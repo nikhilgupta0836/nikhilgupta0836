@@ -1,30 +1,14 @@
-<h1 align="center">Hi 👋, I'm <b>Nikhil Gupta</b></h1>
+<h1 align="center">Hi 👋, Nikhil Gupta </h1>
 <h3 align="center">🚀 BE CSE Student | MERN Stack Developer | Generative AI Enthusiast | Java & DSA Lover</h3>
 
 ---
 
 ### 💫 About Me
-- 🎓 Pursuing *B.E. in Computer Science and Engineering*  
-- 💻 Passionate about *MERN Stack Development* and *Generative AI*  
-- 🌱 Currently learning *Cloud Computing, Advanced AI, and Next.js*  
+- 🎓 Pursuing *B.E. in Computer Science and Engineering*
+- 💻 I love working on *MERN Stack* and *Generative AI* projects  
+- 🌱 Currently learning *Cloud, Advanced AI, and Next.js*  
 - 🧠 Practicing *Data Structures & Algorithms in Java*  
-- 💬 Ask me about *Web Development, AI tools, or DSA concepts*  
-- ⚡ Fun fact: I love solving real-world problems through code!
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- 💬 Ask me about *Web Development, AI tools, and DSA concepts*
 
 ---
 
@@ -56,14 +40,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### ⚡ Fun Extras
-- 🎯 Focused on improving **problem-solving and project-building** skills  
-- 🌐 Exploring **AI x Web** integration  
-- 📈 Always open to collaborating on **innovative projects**
-
----
-
-⭐ **Feel free to check out my repositories and connect with me!**
