@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
+<h1 align="center">Hi 👋, I'm <b>Nikhil Gupta</b></h1>
 <h3 align="center">🚀 BE CSE Student | MERN Stack Developer | Generative AI Enthusiast | Java & DSA Lover</h3>
 
 ---
 
 ### 💫 About Me
-- 🎓 Pursuing *B.E. in Computer Science and Engineering* from [Your College Name]  
+- 🎓 Pursuing *B.E. in Computer Science and Engineering*  
 - 💻 Passionate about *MERN Stack Development* and *Generative AI*  
 - 🌱 Currently learning *Cloud Computing, Advanced AI, and Next.js*  
 - 🧠 Practicing *Data Structures & Algorithms in Java*  
@@ -59,23 +59,8 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### ⚡ Fun Extras
-- 🎯 I’m focused on improving my **problem-solving and project-building** skills  
+- 🎯 Focused on improving **problem-solving and project-building** skills  
 - 🌐 Exploring **AI x Web** integration  
 - 📈 Always open to collaborating on **innovative projects**
 
